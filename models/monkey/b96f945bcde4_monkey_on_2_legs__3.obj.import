@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b38k1s8wun8or"
+path="res://.godot/imported/b96f945bcde4_monkey_on_2_legs__3.obj-ebe57f3b13d39172133e6d1c455f6503.mesh"
+
+[deps]
+
+files=["res://.godot/imported/b96f945bcde4_monkey_on_2_legs__3.obj-ebe57f3b13d39172133e6d1c455f6503.mesh"]
+
+source_file="res://modelos 3d/monkey/b96f945bcde4_monkey_on_2_legs__3.obj"
+dest_files=["res://.godot/imported/b96f945bcde4_monkey_on_2_legs__3.obj-ebe57f3b13d39172133e6d1c455f6503.mesh", "res://.godot/imported/b96f945bcde4_monkey_on_2_legs__3.obj-ebe57f3b13d39172133e6d1c455f6503.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

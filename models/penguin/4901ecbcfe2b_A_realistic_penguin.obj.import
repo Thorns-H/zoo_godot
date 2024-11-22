@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://belcpxnfderbu"
+path="res://.godot/imported/4901ecbcfe2b_A_realistic_penguin.obj-e8fa59369a2ac450e486f411b1aa0986.mesh"
+
+[deps]
+
+files=["res://.godot/imported/4901ecbcfe2b_A_realistic_penguin.obj-e8fa59369a2ac450e486f411b1aa0986.mesh"]
+
+source_file="res://modelos 3d/pinguino/pinguino/4901ecbcfe2b_A_realistic_penguin.obj"
+dest_files=["res://.godot/imported/4901ecbcfe2b_A_realistic_penguin.obj-e8fa59369a2ac450e486f411b1aa0986.mesh", "res://.godot/imported/4901ecbcfe2b_A_realistic_penguin.obj-e8fa59369a2ac450e486f411b1aa0986.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

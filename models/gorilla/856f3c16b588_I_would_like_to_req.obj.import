@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ckxs8yji2y8vh"
+path="res://.godot/imported/856f3c16b588_I_would_like_to_req.obj-b13f5df9f123934581fcf3a3cfd2eb5d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/856f3c16b588_I_would_like_to_req.obj-b13f5df9f123934581fcf3a3cfd2eb5d.mesh"]
+
+source_file="res://modelos 3d/Gorila/7aed6670fe1d_856f3c16b588_I_would_like_to_req_obj/856f3c16b588_I_would_like_to_req.obj"
+dest_files=["res://.godot/imported/856f3c16b588_I_would_like_to_req.obj-b13f5df9f123934581fcf3a3cfd2eb5d.mesh", "res://.godot/imported/856f3c16b588_I_would_like_to_req.obj-b13f5df9f123934581fcf3a3cfd2eb5d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
